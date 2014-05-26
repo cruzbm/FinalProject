@@ -1,7 +1,3 @@
 #Final Project ideas for CSIS10A
-
-##1. Personal rendition of Zork ##
-Recreate a new version of Zork. User will be able to walk around MPC and if the user is curious enough, little secrets may be available to access.
-##2. Remake of Space Invader ##
-Remake of Space Invader with personal renditions.
-##3. Semi Intelligent AI (like SIRI) ##
+##Remake of Space Invaders
+In the haste of finishing all my classes 2 weeks early, I found it necessary to dig through online in order to build and understand a program as required for the Final Project. My final product is derived from online instruction. Though, I do understand the inner workings of the program as I went through step by step to write it out, I was still unsuccessful in enabling the program to full function as intended. I fly to Virginia in 6 hours, I can no longer dedicate any time to this program.
